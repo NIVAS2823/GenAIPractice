@@ -2,11 +2,14 @@ langchain
 langchain-community
 langchain-text-splitters
 langchain-openai
-chromadb
+# chromadb
 openai
 langchain-google-genai
-beautifulsoup4
-sentence-transformers
-langgraph
-langchain-huggingface
-groq
+# beautifulsoup4
+# sentence-transformers
+# langgraph
+
+# langchain-huggingface
+# groq
+
+langchain-tavily

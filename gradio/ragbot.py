@@ -33,6 +33,7 @@ embeddings = HuggingFaceEmbeddings(
 
 vectorstore = FAISS.from_documents(chunks, embedding=embeddings)
 
+
 retriever = vectorstore.as_retriever(
     search_type="mmr",          # 🔥 IMPORTANT
     search_kwargs={
