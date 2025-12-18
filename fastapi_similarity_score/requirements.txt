@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sentence-transformers
+numpy
+slowapi
+python-json-logger
+httpx
+pytest

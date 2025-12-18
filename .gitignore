@@ -1,0 +1,27 @@
+# Python & AI Garbage
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large Model Files (Prevent 1GB push errors)
+*.pt
+*.pth
+*.bin
+*.onnx
+*.gguf
+*.safetensors
+*.h5
+large_files/
+models/
+data/
+datasets/
+
+# IDE settings
+.vscode/
+.idea/

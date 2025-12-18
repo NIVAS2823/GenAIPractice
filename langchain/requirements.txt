@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-openai
+chromadb
+openai
+langchain-google-genai
+beautifulsoup4
+sentence-transformers
+langgraph
+langchain-huggingface
+groq
