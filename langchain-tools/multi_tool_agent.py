@@ -92,8 +92,8 @@ def get_weather(city:str,country_code:str="US")->str:
     Returns:
         Formatted weather information or error message
     """
-
-    API_KEY = "bf5d24ff7f55be523c32e5b198545a76"
+   
+    API_KEY = os.getenv['OPENAI_WEATHER_API_KEY']
     BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
     try:
