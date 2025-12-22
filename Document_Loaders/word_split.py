@@ -2,7 +2,6 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import PromptTemplate
 from langchain_community.document_loaders import UnstructuredWordDocumentLoader
-import os
 
 word_file = "Nivas_Mididhodi_Resume.docx"
 output_file = "word_doc_summary.txt"

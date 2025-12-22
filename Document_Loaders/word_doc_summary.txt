@@ -1,0 +1,125 @@
+
+ Chunk 1---
+Original : 
+ Nivas Mididhodi
+
+ Hyderabad | +91 9959699670 | nivasmididhodi@gmail.com| linkedin.com/in/nivas | github.com/NIVAS
+Summary : 
+ Nivas Mididhodi is based in Hyderabad and can be contacted at +91 9959699670 or via email at nivasmididhodi@gmail.com. Additional information can be found on his LinkedIn and GitHub profiles.
+
+ Chunk 2---
+Original : 
+ Trainee Software Engineer specializing in Agentic AI and Intelligent System Design, skilled in developing, integrating, and deploying AI-powered full-stack applications using modern frameworks
+
+PROFESSIONAL EXPERIENCE
+
+Zennial Pro Pvt Ltd	            Sep 2025 – Present 
+
+Trainee Software Engineer
+Summary : 
+ A Trainee Software Engineer at Zennial Pro Pvt Ltd since September 2025, specializing in Agentic AI and Intelligent System Design. Skilled in developing, integrating, and deploying AI-powered full-stack applications using modern frameworks.
+
+ Chunk 3---
+Original : 
+ Trainee Software Engineer
+
+Undergoing intensive training in Agentic AI systems, building intelligent agents for autonomous
+
+decision-making and workflow automation.
+Summary : 
+ The Trainee Software Engineer is currently undergoing intensive training in Agentic AI systems, focusing on the development of intelligent agents for autonomous decision-making and workflow automation.
+
+ Chunk 4---
+Original : 
+ decision-making and workflow automation.
+
+Implementing a full-stack AI-integrated web application using FastAPI backend and LLMs to add intelligent features via prompt engineering.
+
+Tech Stack: Python, FastAPI, Large Language Models (LLMs), REST APIs, Prompt Engineering
+Summary : 
+ The project involves building a full-stack AI-integrated web application that utilizes a FastAPI backend and Large Language Models (LLMs) to enhance decision-making and automate workflows through intelligent features achieved via prompt engineering. The technology stack includes Python, FastAPI, LLMs, REST APIs, and prompt engineering techniques.
+
+ Chunk 5---
+Original : 
+ ASR Tech 	                                                                                                                                                                                     Mar 2025 - Aug 2025
+
+Intern - Frontend Development
+Summary : 
+ Interned as a Frontend Developer at ASR Tech from March 2025 to August 2025.
+
+ Chunk 6---
+Original : 
+ Intern - Frontend Development
+
+Built a role-based school management system with multi-tenant architecture and secure authentication.
+
+Enhanced frontend performance using code-splitting and memoization, improving page load speed by 35%.
+
+Tech Stack: React.js, React Hooks, REST APIs, Git/GitLab.
+Summary : 
+ Interned in Frontend Development, where I developed a role-based school management system with multi-tenant architecture and secure authentication. Improved frontend performance through code-splitting and memoization, resulting in a 35% increase in page load speed. Tech stack included React.js, React Hooks, REST APIs, and Git/GitLab.
+
+ Chunk 7---
+Original : 
+ Tech Stack: React.js, React Hooks, REST APIs, Git/GitLab.
+
+Ekincare	                                                                                                                                                                                     Jul 2024 - Nov 2024
+
+Intern - Operations
+Summary : 
+ **Intern - Operations at Ekincare (Jul 2024 - Nov 2024)**  
+**Tech Stack:** React.js, React Hooks, REST APIs, Git/GitLab.
+
+ Chunk 8---
+Original : 
+ Intern - Operations
+
+Managed backend data operations through CRM dashboards, improving data accuracy by 25%.
+
+Coordinated with cross-functional and clients to streamline reporting and reduced  processing time by 15%.
+Summary : 
+ As an Operations Intern, I improved data accuracy by 25% through the management of backend data operations using CRM dashboards. Additionally, I coordinated with cross-functional teams and clients to streamline reporting, resulting in a 15% reduction in processing time.
+
+ Chunk 9---
+Original : 
+ Oculus Regenerus Biotechnologies Pvt Ltd                                                                                            Mar 2024 - Jul 2024
+
+Intern - Research & Data Operations 
+
+Executed end-to-end data operations for ophthalmic research—data compilation, cleaning, and annotation.
+Summary : 
+ Oculus Regenerus Biotechnologies Pvt Ltd (Mar 2024 - Jul 2024) - Intern in Research & Data Operations, responsible for managing comprehensive data operations for ophthalmic research, including data compilation, cleaning, and annotation.
+
+ Chunk 10---
+Original : 
+ Assisted in AI-based image analysis and validation, improving classification accuracy by 12%.
+
+Tech Stack: Python, Excel, Machine Learning, OpenCV, Data Preprocessing
+
+EDUCATION
+
+Malla Reddy Institute Of Engineering and Technology (JNTUH)	     2020-2024
+
+B.Tech in Computer Science and Engineering
+Summary : 
+ The individual contributed to AI-driven image analysis and validation, enhancing classification accuracy by 12%. They utilized a tech stack that included Python, Excel, Machine Learning, OpenCV, and Data Preprocessing. They are currently pursuing a B.Tech in Computer Science and Engineering at Malla Reddy Institute of Engineering and Technology, expected to graduate in 2024.
+
+ Chunk 11---
+Original : 
+ B.Tech in Computer Science and Engineering
+
+CGPA :  7.3 
+
+SKILLS & OTHER
+
+Programming Languages : Python, Java.
+
+Frontend : HTML, CSS, JavaScript , React
+
+Backend : Fast API ,REST API’s
+
+Databases : MySQL , PostgreSQL
+
+AI : Machine Learning Fundamentals, LLMs     Prompt Engineering
+Summary : 
+ The individual has a B.Tech in Computer Science and Engineering with a CGPA of 7.3. Their skills include programming in Python and Java, frontend development using HTML, CSS, JavaScript, and React, backend development with Fast API and REST APIs, and database management with MySQL and PostgreSQL. They also have knowledge of machine learning fundamentals and prompt engineering related to large language models (LLMs).

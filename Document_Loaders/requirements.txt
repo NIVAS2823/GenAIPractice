@@ -1,0 +1,27 @@
+# Core Framework - Corrected Core Version
+langchain==0.3.12
+langchain-community==0.3.12
+langchain-core==0.3.26
+langchain-text-splitters==0.3.4
+langchain-openai==0.2.12
+langchain-google-genai==2.0.7
+langchain-huggingface==0.1.2
+langchain-chroma==0.1.4
+
+# Vector stores
+chromadb==0.5.5
+faiss-cpu==1.9.0
+
+# Document processing
+pypdf==5.1.0
+beautifulsoup4==4.12.3
+unstructured[all-docs]==0.16.11
+python-docx==1.1.2
+
+# Embeddings & Tokenization
+sentence-transformers==3.3.1
+tiktoken==0.8.0
+
+# Utils
+python-dotenv==1.0.1
+pydantic==2.10.3
