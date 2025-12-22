@@ -1,0 +1,13 @@
+langchain
+langgraph  
+langchain-community
+langchain-classic
+langchain-google-genai
+langchain-openai
+sqlalchemy
+requests
+langsmith
+langgraph-checkpoint
+pydantic
+pydantic-settings
+dotenv
