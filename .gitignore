@@ -8,6 +8,8 @@ __pycache__/
 env/
 venv/
 ENV/
+.vevn/
+.vevn
 
 # Large Model Files (Prevent 1GB push errors)
 *.pt
