@@ -11,3 +11,5 @@ langgraph-checkpoint
 pydantic
 pydantic-settings
 dotenv
+fastapi
+uvicorn
