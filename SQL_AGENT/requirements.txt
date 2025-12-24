@@ -13,3 +13,7 @@ pydantic-settings
 dotenv
 fastapi
 uvicorn
+python-jose[cryptography]
+passlib[bcrypt]
+motor 
+pymongo

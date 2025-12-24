@@ -8,12 +8,14 @@ from langchain_openai import ChatOpenAI
 import requests
 import pathlib
 
+
 from app.logger import get_logger
 
 
 logger = get_logger("sql-agent")
 
 load_dotenv()
+
 
 DB_PATH = pathlib.Path("Chinook.db")
 DB_URL = "https://storage.googleapis.com/benchmarks-artifacts/chinook/Chinook.db"
@@ -33,14 +35,6 @@ def create_sql_agent()->AgentExecutor:
     os.environ["LANGCHAIN_TRACING_V2"] = "true"
     os.environ["LANGCHAIN_PROJECT"] = os.getenv("LANGCHAIN_PROJECT", "sql-agent-chinook")
     langsmith_key = os.getenv("LANGCHAIN_API_KEY")
-    if langsmith_key:
-        os.environ["LANGCHAIN_API_KEY"] = langsmith_key
-        logger.info("🚀 LangSmith tracing FULLY enabled!")
-        logger.info(f"  📊 Project: {os.environ['LANGCHAIN_PROJECT']}")
-        logger.info(f"  🔗 View traces: https://smith.langchain.com")
-    else:
-        logger.error("⚠️  LangSmith tracing DISABLED (no LANGCHAIN_API_KEY)")
-        logger.warning("   Add to .env: LANGCHAIN_API_KEY=lsv2_...")
 
     google_key = os.getenv("GOOGLE_API_KEY")
     openai_key = os.getenv("OPENAI_API_KEY")
