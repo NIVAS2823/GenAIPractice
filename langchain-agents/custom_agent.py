@@ -2,19 +2,19 @@ from langchain_classic.agents import BaseSingleActionAgent, AgentExecutor
 from langchain_core.agents import AgentAction, AgentFinish
 from typing import List, Tuple, Any, Union
 from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain_core.messages import HumanMessage  # Added for messages
+from langchain_core.messages import HumanMessage 
 
 class CustomLogicAgent(BaseSingleActionAgent):
     """Custom agent with specialized decision logic"""
     llm: ChatGoogleGenerativeAI
-    tools: List[Any]  # Fixed: Added type annotation
+    tools: List[Any]  
 
     @property
     def input_keys(self) -> List[str]:
         return ["input"]
     
     @property
-    def output_keys(self) -> List[str]:  # Fixed: Added required property
+    def output_keys(self) -> List[str]: 
         return ["output"]
 
     def plan(
@@ -61,11 +61,10 @@ class CustomLogicAgent(BaseSingleActionAgent):
     def tool_names(self) -> List[str]:  # Added: Required for tool lookup
         return [tool.name for tool in self.tools]
 
-# Example usage - define llm and tools first:
 llm = ChatGoogleGenerativeAI(model="gemini-pro")  # Define llm
-tools = []  # Add your actual tools here, e.g.:
-# from langchain.tools import Tool
-# tools = [Tool(name="weather_tool", func=..., description="...")]
+tools = []  
+
 
 custom_agent = CustomLogicAgent(llm=llm, tools=tools)
 executor = AgentExecutor(agent=custom_agent, tools=tools, verbose=True)
+

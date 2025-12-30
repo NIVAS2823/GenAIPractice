@@ -1,11 +1,6 @@
-langchain==0.1.0
-langchain-core==0.1.10
-langchain-community==0.0.13
-langchain-google-genai==1.0.1
-google-generativeai>=0.4.1,<0.5.0  # Changed from 0.3.2
-faiss-cpu==1.7.4
-numpy==1.24.3
-pydantic==2.5.3
-requests==2.31.0
-aiohttp==3.9.1
-python-dotenv==1.0.0
+langchain==0.2.0
+langchain-google-genai==1.0.3
+langgraph==0.2.2
+langgraph-checkpoint-mongodb==0.1.3
+# Ensure pydantic is compatible
+pydantic>=2.0.0
