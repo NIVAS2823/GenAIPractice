@@ -13,6 +13,11 @@ llm = ChatGoogleGenerativeAI(model='gemini-2.5-flash')
 from typing_extensions import TypedDict
 from langchain_core.messages import HumanMessage
 
+
+""""
+Agent that reads reports 
+Suggests diet and lifestyle changes needed 
+"""
 class State(TypedDict):
     input_file_path : str
     file_content:str
