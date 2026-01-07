@@ -5,3 +5,9 @@ langgraph>=1.0.0
 mcp
 python-dotenv
 langchain-mcp-adapters
+mcp[cli]
+langchain-openai
+langgraph
+langchain-mcp-adapters 
+python-dotenv 
+pytz
